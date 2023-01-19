@@ -11,3 +11,14 @@ actor {
 
 
 //second challenge
+
+
+
+//third challenge
+actor {
+    let n = 5;
+    func factorial(n : Nat) : async Nat {
+        return (1 * 2 * 3 * 4 * 5);
+    };
+
+};
